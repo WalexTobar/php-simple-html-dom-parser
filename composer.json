@@ -1,7 +1,7 @@
 {
     "repositories":[{
             "type": "vcs",
-            "url": "https://github.com/WalexTobar/php-simple-html-dom-parser.git";
+            "url": "https://github.com/WalexTobar/php-simple-html-dom-parser.git"
     }],
     "require": {
         "sunra/php-simple-html-dom-parser": "dev-bugfix"
